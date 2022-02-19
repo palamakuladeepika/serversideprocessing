@@ -85,7 +85,7 @@ Link the html document to urls.py.
 </body>
 </html>
 ```
-## View.py:
+## Views.py:
 ```
 from django.shortcuts import render
 
